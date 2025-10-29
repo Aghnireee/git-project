@@ -4,4 +4,5 @@ print (a-b)
 print ("pengurangan")
 print ("ini kalkulator")
 print (a)
+print (b)
 
